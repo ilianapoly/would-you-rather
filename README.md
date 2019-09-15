@@ -2,6 +2,9 @@
 The "Would You Rather?" app is a simple responsive web game built using React and Redux.
 Users can sign-in to play and are asked to select a preference between two options. In addition to answering questions, users can  post their own questions, view how others have voted for a question, and view their ranking amongst other users on a leaderboard.
 
+Refer to the [RUBRIC.md](https://github.com/ilianapoly/would-you-rather/blob/master/RUBRIC.md) for the project specificaiton.
+
+
 ### Installation
 Using the terminal, use the following commands to install and run the app.
 -   Change into project directory folder `cd would-you-rather` 
